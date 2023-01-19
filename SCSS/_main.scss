@@ -322,7 +322,7 @@ body{
         width: 260px;
         border-radius: 12px 12px 0 0;
     }
-    @include smallScreen{
+    @include ipad{
         margin-bottom:24px;
     }
 }
@@ -501,7 +501,7 @@ body{
     } 
 }
 .body72Box{
-    @include iphone{
+    @include ipad{
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -540,7 +540,7 @@ body{
         max-width: 335px;
         height:248px;
     } 
-    @include iphone{
+    @include bigScreen{
         margin-bottom: 100px;
     }
 }

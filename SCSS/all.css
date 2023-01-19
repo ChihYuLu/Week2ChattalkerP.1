@@ -450,7 +450,7 @@ body {
   width: 260px;
   border-radius: 12px 12px 0 0;
 }
-@media (max-width: 694px) {
+@media (max-width: 975px) {
   .bodyInner {
     margin-bottom: 24px;
   }
@@ -689,7 +689,7 @@ body {
   padding: 48px 32px 24px 32px;
   position: relative;
 }
-@media (max-width: 376px) {
+@media (max-width: 975px) {
   .body72Box {
     display: flex;
     flex-direction: column;
@@ -728,7 +728,7 @@ body {
     height: 248px;
   }
 }
-@media (max-width: 376px) {
+@media (max-width: 1279px) {
   .body72Box {
     margin-bottom: 100px;
   }
